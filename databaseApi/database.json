@@ -1,0 +1,50 @@
+{
+    "Employees":[
+        {
+            "empId": 1,
+            "name": "Seth Dana",
+            "compId": 2,
+            "deptId": 3
+        },
+        {
+            "empId": 2,
+            "name": "Bob Ross",
+            "compId": 1,
+            "deptId": 1
+        },
+        {
+            "empId": 3,
+            "name": "Santa Claus",
+            "compId": 3,
+            "deptId": 2
+        }
+    ],
+    "Computers":[
+        {
+            "compId": 1,
+            "model": "Apple II"
+        },
+        {
+            "compId": 2,
+            "model": "Dell XPS"
+        },
+        {
+            "compId": 3,
+            "model": "MacBook Amateur"
+        }
+    ],
+    "Departments":[
+        {
+            "deptId": 1,
+            "dept": "Sanitation"
+        },
+        {
+            "deptId": 2,
+            "dept": "Good Times"
+        },
+        {
+            "deptId": 3,
+            "dept": "Alcohol Consumption"
+        }
+    ]
+}
